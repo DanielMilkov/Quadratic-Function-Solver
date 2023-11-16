@@ -1,7 +1,7 @@
 # Quadratic-Function-Solver
 This is a java code that takes a quadratic function as input and returns the solution.
 
-Enter your function as x^2 + x + 1 = 0
+Enter your function as ax^2 + bx + c = 0
 For example: 5x^2 - 9x - 2 = 0
 output will be x = 2 and x = -0.2 
 
